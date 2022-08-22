@@ -1,0 +1,335 @@
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVien.resources
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormChonCho.resources
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormQuanLy.resources
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDoanhThuQL.resources
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKhachHanqQL.resources
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVienQL.resources
+D:\TailieucachockiDH\hk3Nam2\laptrinhgiaodien\BTL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPhimQL.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormChonCho.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDoanhThuQL.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKhachHanqQL.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVien.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVienQL.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPhimQL.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormQuanLy.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormBangDK.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLichChieu.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKTSuat.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormChonCho.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDoanhThuQL.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKhachHanqQL.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKTSuat.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLichChieu.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVien.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVienQL.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPhimQL.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormQuanLy.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormChonCho.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDoanhThuQL.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKhachHanqQL.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKTSuat.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLichChieu.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVien.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVienQL.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPhimQL.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormQuanLy.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormThucAn.resources
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\New folder (2)\btlback\btlback\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormChonCho.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDoanhThuQL.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKhachHanqQL.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKTSuat.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLichChieu.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVien.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVienQL.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPhimQL.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormQuanLy.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormThucAn.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ASUS\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormChonCho.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDoanhThuQL.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKhachHanqQL.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKTSuat.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLichChieu.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVien.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNhanVienQL.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPhimQL.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormQuanLy.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormThucAn.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ACER\Desktop\hoan\WindowsFormsApp1hoanchinhsuafooddechup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
